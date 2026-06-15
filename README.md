@@ -4,6 +4,11 @@ This documentation covers the technical implementation details, deployment strat
 
 ---
 
+## 📅 Project Timeline & Milestones
+
+* **Project Commencement:** June 14, 2026
+* **Target Completion Date:** August 19, 2026 
+* **Operational Window:** This 9-week development runway is strategically timed to wrap up functional end-to-end integration and system testing immediately prior to the start of the MSCS program term.
 ## 🛠️ Complete Tech Stack
 
 * **Languages:** Python, SQL
