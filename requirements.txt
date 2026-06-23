@@ -1,0 +1,7 @@
+openai>=1.0.0
+olmocr>=0.1.0
+opencv-python-headless>=4.8.0
+medspacy>=1.0.0
+torch>=2.1.0 --index-url https://pytorch.org
+torchvision>=0.16.0 --index-url https://pytorch.org
+pandas>=2.0.0
